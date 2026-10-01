@@ -1,0 +1,14 @@
+# Unreal Engine gitignore
+Binaries/*
+DerivedDataCache/*
+Intermediate/*
+Saved/*
+.vscode/*
+.idea/*
+*.xcworkspace
+*.xcodeproj
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
